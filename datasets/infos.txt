@@ -1,0 +1,82 @@
+  ███                ██████                  
+ ░░░                ███░░███                 
+ ████  ████████    ░███ ░░░   ██████   █████ 
+░░███ ░░███░░███  ███████    ███░░███ ███░░  
+ ░███  ░███ ░███ ░░░███░    ░███ ░███░░█████ 
+ ░███  ░███ ░███   ░███     ░███ ░███ ░░░░███
+ █████ ████ █████  █████    ░░██████  ██████ 
+░░░░░ ░░░░ ░░░░░  ░░░░░      ░░░░░░  ░░░░░░                                      
+
+=============================================================
+
+[minMax1] / 1000 / Aleatorio / Media: 2.3587e-06 segundos.
+
+[minMax2] / 1000 / Aleatorio / Media: 4.6991e-06 segundos.
+
+[minMax3] / 1000 / Aleatorio / Media: 6.4967e-06 segundos.
+
+[minMax1] / 1000 / Crescente / Media: 3.1703e-06 segundos.
+
+[minMax2] / 1000 / Crescente / Media: 6.2498e-06 segundos.
+
+[minMax3] / 1000 / Crescente / Media: 8.3159e-06 segundos.
+
+[minMax1] / 1000 / Decrescente / Media: 3.0639e-06 segundos.
+
+[minMax2] / 1000 / Decrescente / Media: 6.51e-06 segundos.
+
+[minMax3] / 1000 / Decrescente / Media: 9.2619e-06 segundos.
+
+[minMax1] / 10000 / Aleatorio / Media: 2.27332e-05 segundos.
+
+[minMax2] / 10000 / Aleatorio / Media: 4.60634e-05 segundos.
+
+[minMax3] / 10000 / Aleatorio / Media: 7.03079e-05 segundos.
+
+[minMax1] / 10000 / Crescente / Media: 3.29092e-05 segundos.
+
+[minMax2] / 10000 / Crescente / Media: 6.4864e-05 segundos.
+
+[minMax3] / 10000 / Crescente / Media: 8.48777e-05 segundos.
+
+[minMax1] / 10000 / Decrescente / Media: 3.10228e-05 segundos.
+
+[minMax2] / 10000 / Decrescente / Media: 6.46328e-05 segundos.
+
+[minMax3] / 10000 / Decrescente / Media: 8.61311e-05 segundos.
+
+[minMax1] / 100000 / Aleatorio / Media: 0.00022906 segundos.
+
+[minMax2] / 100000 / Aleatorio / Media: 0.000468146 segundos.
+
+[minMax3] / 100000 / Aleatorio / Media: 0.000698896 segundos.
+
+[minMax1] / 100000 / Crescente / Media: 0.000233832 segundos.
+
+[minMax2] / 100000 / Crescente / Media: 0.000470761 segundos.
+
+[minMax3] / 100000 / Crescente / Media: 0.00062218 segundos.
+
+[minMax1] / 100000 / Decrescente / Media: 0.000223327 segundos.
+
+[minMax2] / 100000 / Decrescente / Media: 0.000449681 segundos.
+
+[minMax3] / 100000 / Decrescente / Media: 0.000599039 segundos.
+
+[minMax1] / 500000 / Aleatorio / Media: 0.00117753 segundos.
+
+[minMax2] / 500000 / Aleatorio / Media: 0.00242783 segundos.
+
+[minMax3] / 500000 / Aleatorio / Media: 0.00358694 segundos.
+
+[minMax1] / 500000 / Crescente / Media: 0.00112546 segundos.
+
+[minMax2] / 500000 / Crescente / Media: 0.00229757 segundos.
+
+[minMax3] / 500000 / Crescente / Media: 0.0030127 segundos.
+
+[minMax1] / 500000 / Decrescente / Media: 0.00132373 segundos.
+
+[minMax2] / 500000 / Decrescente / Media: 0.00281803 segundos.
+
+[minMax3] / 500000 / Decrescente / Media: 0.00376989 segundos.
